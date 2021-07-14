@@ -1,3 +1,5 @@
+# The Art of Screaming - Privacy Policy
+
 We care about your privacy. 
 
 We DO NOT COLLECT ANY PERSONAL INFORMATION while using [The Art of Screaming iOS app](https://apps.apple.com/us/app/the-art-of-screaming-create-your-own-vocal-warm-up/id514202275). 
